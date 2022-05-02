@@ -2,38 +2,36 @@
 # Display name
 title: Yao Zhimin
 
-# Is this the primary user of the site?
-superuser: true
-
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 工程热物理副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 武汉理工大学
+    url: http://www.whut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 内燃机传热与热负荷
+  - 热工传热与热结构强度分析
+  - 制冷技术
+  -新型纳米材料交叉应用研究
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 工程热物理博士
+      institution: 武汉理工大学
+      year: 2012.09-2015.12
+    - course: 工程热物理硕士
+      institution: 武汉理工大学
+      year: 2009.09-2012.07
+    - course: 热能与动力工程学士
+      institution: 武汉理工大学
+      year: 2005.09-2009.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
